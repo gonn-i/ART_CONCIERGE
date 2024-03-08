@@ -55,15 +55,6 @@ function loadData() {
         document.getElementById('input_Price').value = product_One.price;
         document.getElementById('input_Description').value = product_One.information;
         document.getElementById('datePicker').value = product_One.startDate + ' to ' + product_One.endDate;
-
-        let previewImageDiv = document.getElementById('previewImage');
-        previewImageDiv.innerHTML = '';
-
-        let imageElement = document.createElement('img');
-        imageElement.src = product_One.image;
-        imageElement.style.maxWidth = '200px';
-        imageElement.style.maxHeight = '200px';
-        previewImageDiv.appendChild(imageElement);
       })
       .catch(error => {
             console.error('에러 발생:', error);
@@ -124,16 +115,6 @@ function moveToProduct() {
 function uploadImage() {
     let file = document.getElementById('uploadInput').files[0];
     let reader = new FileReader();
-
-    reader.onload = function(e) {
-        let previewImageDiv = document.getElementById('previewImage');
-        previewImageDiv.innerHTML = ''; 
-
-        let imageElement = document.createElement('img');
-        imageElement.src = e.target.result;
-        imageElement.style.maxWidth = '200px'; 
-        previewImageDiv.appendChild(imageElement);
-    };
 
     reader.readAsDataURL(file);
 }
