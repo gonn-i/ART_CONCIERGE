@@ -86,7 +86,7 @@ password :12345678
 - 전시 상세 정보 조회 
 - 내가 원하는 전시 검색
 
-![전시조회](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/e62ac6fb-58f3-4f6e-858b-a7dca44ea0cf)
+[전시조회](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/e62ac6fb-58f3-4f6e-858b-a7dca44ea0cf)
 
 
 
@@ -94,7 +94,7 @@ password :12345678
 - 원하는 전시 장바구니에 추가 
 - 장바구니 삭제 및 수정 
 
-![장바구니](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/02ea53cf-949d-480a-b9af-f123c24ccd79)
+[장바구니](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/02ea53cf-949d-480a-b9af-f123c24ccd79)
 
 
 3. 주문하기 
@@ -102,19 +102,19 @@ password :12345678
 - 정보 입력 후 주문하기 
 - 이후 마이페이지로 주문 내역 조회 및 수정, 취소 
 
-![주문하기](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/66373f89-eb0a-430f-b050-41be507ef78d)
+[주문하기](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/66373f89-eb0a-430f-b050-41be507ef78d)
 
 
 4. 회원가입 
 - 이메일 인증 후 회원가입 가능
 
-![회원가입](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/2e14d941-c272-4bf6-a6c1-cab8f64e64af)
+[회원가입](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/2e14d941-c272-4bf6-a6c1-cab8f64e64af)
 
 
 5. 로그인 및 로그아웃 
 - JWT 를 이용한 로그인/ 로그아웃
 
-![로그인/로그아웃](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/af340dd5-533e-4928-ba24-7e94c327b72e)
+[로그인/로그아웃](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/af340dd5-533e-4928-ba24-7e94c327b72e)
 
 
 6. 마이페이지 
@@ -123,14 +123,14 @@ password :12345678
 - 전시 추가 및 수정, 삭제 (CRUD)
 - 사용자의 주문 정보 수정 (RUD) 
 
-![관리자 마이페이지](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/0ed3c91e-c0de-481e-aadb-4e7522ba06f6)
+[관리자 마이페이지](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/0ed3c91e-c0de-481e-aadb-4e7522ba06f6)
 
 
 (사용자) 
 - 주문 내역 확인 및 수정 삭제 (RUD) 
 - 본인 정보 조회 및 수정/ 회원 탈퇴 (RUD) 
 
-![사용자 마이페이지](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/77c1466d-4b87-41dd-940a-57931df6cc04)
+[사용자 마이페이지](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/77c1466d-4b87-41dd-940a-57931df6cc04)
 
 
 ---
