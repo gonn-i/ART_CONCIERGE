@@ -159,4 +159,3 @@ $cancelModal.addEventListener('click', () => {
 })
 // 각 주문 정보를 반복하며 HTML에 추가
 orderData.forEach(displayOrderInfo);
-
