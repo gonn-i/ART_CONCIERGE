@@ -2,15 +2,16 @@
 **프로젝트 이름 : Prestige Collection 🎫**
 <p>제작 기간 : 2024.02.19 ~ 2024.03.01</p> <br>
 <p>팀 구성 : 7명 ( 프론트엔드 4명, 백엔드 3명)</p>
-
-
-<p> 엘리스 SW 엔지니어 트랙 8기 프로젝트 과제로,"쇼핑몰 웹 서비스 제작 프로젝트" 입니다. 실제 서비스 운영이 아닌 기능 구현에 초점을 맞춘 데모 웹 어플리케이션입니다.</p>
+<p> 엘리스 SW 엔지니어 트랙 8기 프로젝트 과제로,"쇼핑몰 웹 서비스 제작 프로젝트" 입니다. <br> 실제 서비스 운영이 아닌 기능 구현에 초점을 맞춘 데모 웹 어플리케이션입니다.</p>
 
 
 
 ## 소개
 당신이 원하는 전시 여기 다 있다!<br>
 **나만 몰랐던 요즘 전시관을 배달 받아보세요 📦**
+
+[협업 노션🎡 ](https://quark-dianella-5e6.notion.site/1-a9a352e0b16b41058c562af70b6b997a?pvs=4)
+[발표 자료📢](https://www.canva.com/design/DAF-RQc7jdA/6pxWOKAt0RmZwgJC381TcA/edit?utm_content=DAF-RQc7jdA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -35,8 +36,8 @@ npm install
 npm start 
 ```
 
-**<관리자 계정>**
-ID : team1@elice.io
+**<관리자 계정>**<br>
+ID : team1@elice.io<br>
 password :12345678  
 
 ---
@@ -76,40 +77,61 @@ password :12345678
 
 ## 2. 기능 예시
 
-1. 전시 조회 
-  - 카테고리별 전시 조회 
-  - 전시 상세 정보 조회 
-  - 내가 원하는 전시 검색 
+1. 전시 조회
+- 카테고리별 전시 조회 
+- 전시 상세 정보 조회 
+- 내가 원하는 전시 검색
+
+[전시조회](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/e62ac6fb-58f3-4f6e-858b-a7dca44ea0cf)
+
+
 
 2. 장바구니
-  - 원하는 전시 장바구니에 추가 
-  - 장바구니 삭제 및 수정 
+- 원하는 전시 장바구니에 추가 
+- 장바구니 삭제 및 수정 
+
+[장바구니](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/02ea53cf-949d-480a-b9af-f123c24ccd79)
+
 
 3. 주문하기 
-  - 사용자의 정보 입력 
-  - 정보 입력 후 주문하기 
-  - 이후 마이페이지로 주문 내역 조회 및 수정, 취소 
+- 사용자의 정보 입력 
+- 정보 입력 후 주문하기 
+- 이후 마이페이지로 주문 내역 조회 및 수정, 취소 
+
+[주문하기](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/66373f89-eb0a-430f-b050-41be507ef78d)
+
 
 4. 회원가입 
-  - 이메일 인증 후 회원가입 가능 
+- 이메일 인증 후 회원가입 가능
+
+[회원가입](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/2e14d941-c272-4bf6-a6c1-cab8f64e64af)
+
 
 5. 로그인 및 로그아웃 
-  - JWT 를 이용한 로그인/ 로그아웃
+- JWT 를 이용한 로그인/ 로그아웃
+
+[로그인/로그아웃](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/af340dd5-533e-4928-ba24-7e94c327b72e)
+
 
 6. 마이페이지 
- (관리자) 
-  - 카테고리 추가 및 수정, 삭제 (CRUD)
-  - 전시 추가 및 수정, 삭제 (CRUD)
-  - 사용자의 주문 정보 수정 (RUD) 
+(관리자) 
+- 카테고리 추가 및 수정, 삭제 (CRUD)
+- 전시 추가 및 수정, 삭제 (CRUD)
+- 사용자의 주문 정보 수정 (RUD) 
 
- (사용자) 
- - 주문 내역 확인 및 수정 삭제 (RUD) 
- - 본인 정보 조회 및 수정/ 회원 탈퇴 (RUD) 
+[관리자 마이페이지](https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/0ed3c91e-c0de-481e-aadb-4e7522ba06f6)
 
 
-## 프로젝트 팀원
+(사용자) 
+- 주문 내역 확인 및 수정 삭제 (RUD) 
+- 본인 정보 조회 및 수정/ 회원 탈퇴 (RUD) 
+
+[사용자 마이페이지] (https://github.com/gonn-i/ART_CONCIERGE/assets/121345759/77c1466d-4b87-41dd-940a-57931df6cc04)
+
 
 ---
+
+## 프로젝트 팀원
 
 | Backend / Leader | Backend | Backend | Frontend / Leader | Frontend | Frontend | Frontend |
 | --- | --- | --- | --- | --- | --- | --- |
